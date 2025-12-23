@@ -1,0 +1,2 @@
+# Redirect domain alias to primary domain (URL bar changes to primary domain)
+https://redirects.redirects-testing.lol/* https://redirects-testing.lol/:splat 301!
